@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  }
+  body {
+  background-color: #300a0a;
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  }
+  header {
+  background-color: #877b7b;
+  display: flex;
+  }
+  h1{
+  color: whitesmoke;
+  align-self: center;
+  margin-left: 28rem;
+  }
+  
